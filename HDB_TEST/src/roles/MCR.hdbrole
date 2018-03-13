@@ -5,8 +5,7 @@
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
-		    			  "INSERT",
-		    			  "EXECUTE",
+		    			  "INSERT"
 		   ]
 		}]
 		
