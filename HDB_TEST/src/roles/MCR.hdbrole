@@ -5,7 +5,12 @@
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
+<<<<<<< HEAD
 		    			  "INSERT"
+=======
+		    			  "INSERT",
+		    			  "EXECUTE"
+>>>>>>> refs/heads/master
 		   ]
 		}]
 		

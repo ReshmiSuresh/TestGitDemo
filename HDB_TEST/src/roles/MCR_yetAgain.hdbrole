@@ -10,8 +10,7 @@
 		    			  "DELETE",
 		    			  "UPDATE",
 		    			  "CREATE TEMPORARY TABLE",
-						  "TRIGGER2"
-		    			  "INSERT"
+		    			  "TRIGGER"
 		   ]
 		}]
 		
