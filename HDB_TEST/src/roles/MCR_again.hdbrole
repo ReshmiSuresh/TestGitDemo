@@ -11,7 +11,6 @@
 		    			  "UPDATE",
 		    			  "CREATE TEMPORARY TABLE",
 		    			  "TRIGGER1"
-		    			  "SELECT",
 		    			  "INSERT"
 		   ]
 		}]
